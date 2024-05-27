@@ -1,6 +1,6 @@
 ***Work-In-Progress***
 
-***Created for the UTSA EE5453 IOT Security class under Dr. Chen***
+***Created for the UTSA EE5453 IOT Security class under Dr. Chen (Spring 2024)***
 
 This repository contains Arduino code used for monitoring a solar panel and operating a smart appliance.
 
