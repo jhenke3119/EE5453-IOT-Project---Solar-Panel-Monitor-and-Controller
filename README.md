@@ -4,6 +4,8 @@
 
 This repository contains Arduino code used for monitoring a solar panel and operating a smart appliance.
 
+NOTE:  This is only an example use-case for how one can secure an Arduino/Mosquitto-based smart network and should not be used for any "production" type enviorment.  The codes and designs here are meant for educational purposes only.
+
 # Folder Information
 The folders are organized as such:
 
